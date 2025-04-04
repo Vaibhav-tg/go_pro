@@ -14,7 +14,7 @@ func main() {
 
 	var N, answer int32
 
-	N = 11
+	N = 20
 	fmt.Println("sum of the Natural number using the formula.")
 
 	answer = sumOfNNaturalNumbers(N)
